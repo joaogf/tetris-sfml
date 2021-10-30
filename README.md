@@ -1,2 +1,2 @@
-# tetris-sfml
-tetris c++ sfml
+# tetris
+Desenvolvendo tetris em C++ sfml
